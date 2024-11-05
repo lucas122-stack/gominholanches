@@ -59,3 +59,66 @@ nav > a{
     }
 }
 
+/* ########################Responsividade 450px################################# */
+@media (max-width: 450px) {
+    
+    header {
+        width: 100%;
+    }   
+
+    .title{
+        padding-left: 0;
+    }
+
+    header nav{
+        padding-left: 0;
+
+    }
+
+    nav > a {
+        font-size: 1.4rem;
+    }
+}
+    /* ########################Responsividade 1024px################################# */
+
+    @media (max-width: 1024px) {
+    
+        header {
+            width: 100%;
+        }   
+    
+        .title{
+            padding-left: 0;
+        }
+    
+        header nav{
+            padding-left: 0;
+    
+        }
+    
+        nav > a {
+            font-size: 1.4rem;
+        }
+    }
+
+    /* ########################Responsividade 1440px################################# */
+
+    @media (max-width: 1440px) {
+    
+        header {
+            width: 100%;
+        }   
+    
+        .title{
+            padding-left: 0;
+        }
+    
+        header nav{
+            padding-left: 0;
+    
+        }
+    
+        nav > a {
+            font-size: 1.4rem;
+        }
+    }
