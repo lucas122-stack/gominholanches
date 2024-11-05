@@ -3,3 +3,11 @@
     width: 80%;
     background-color: var(--escuro);
 }
+
+/* #######################Responsividade 400px ################################## */
+
+@media (max-width: 400px) {
+    .footer{
+        width: 100%;
+    }
+}
